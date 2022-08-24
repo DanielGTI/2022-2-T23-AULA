@@ -1,16 +1,23 @@
 ﻿//  Aula 01
 //  int = Inteiro
 //  Criando uma variável
-int a;
+/*
+    int     = inteiro
+    float   = real
+    double  = real
+    decimal = real
+
+*/
+float salario;
 
 //  Escreve na tela
-Console.Write("Digite o valor de A: ");
+Console.Write("Digite o seu salário: ");
 
 
 //  String = Letras ou palavras
 //  Console.ReadLine() = Ler a informação do usuario 
-a = Convert.ToInt32(Console.ReadLine());
+salario = Convert.ToInt32(Console.ReadLine());
 
-Console.Write("Valor de a = ");
-Console.Write(a);
+Console.Write("Valor em R$ = ");
+Console.Write(salario);
 
