@@ -1,22 +1,12 @@
-﻿//  Aula 01
-//  int = Inteiro
-//  Criando uma variável
-/*
-    int     = inteiro   32bits
-    float   = real  32bits
-    double  = real  64bits
-    decimal = real  92bits
+﻿// EX 1000
+//Console.Write("Hello World!\n");
 
-*/
-double salario;
+int a, b, x;
 
-//  Escreve na tela
-Console.Write("Digite o seu salário: ");
+a = Convert.ToInt32(Console.ReadLine());
+b = Convert.ToInt32(Console.ReadLine());
 
+x = a + b;
 
-//  String = Letras ou palavras
-//  Console.ReadLine() = Ler a informação do usuario 
-salario = Convert.ToDouble(Console.ReadLine());
-
-Console.Write("Valor em R$ = {0}",salario.ToString("0.00"));
-//  salario.ToString("0.00") = Definir padrão de exibição
+Console.Write("X = {0}\n", x);
+//Console.Write("O valor da soma é = {0}\n", x);
