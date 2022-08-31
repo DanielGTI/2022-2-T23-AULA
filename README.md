@@ -4,6 +4,8 @@ Aula 1 = https://github.com/DanielGTI/2022-2-T23-AULA/tree/aula1
 
 Aula 2 = https://github.com/DanielGTI/2022-2-T23-AULA/tree/aula2
 
+Aula 3 = https://github.com/DanielGTI/2022-2-T23-AULA/tree/Aula3
+
 
 # Links úteis:
 # .NET 6.0 SDK (v6.0.400) - Windows x64 Installer!
